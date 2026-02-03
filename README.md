@@ -12,7 +12,7 @@ Welcome to my GitHub portfolio. I'm a master's student in Systems, Control & Rob
 -   Other languages previously revised include C, C#, C++, Java, Go
 - **Frameworks**: PyTorch, scikit-learn, ROS, HuggingFace
 - **Concepts**: Electrical Engineering, Signal & Control Theory, Embedded Systems, Estimation, ML, DL, NLP, Robotics
-- **Tools**: Git, Linux, Agile workflows, Obsidian
+- **Tools**: Git, Linux, Obsidian
 
 ## Previous Projects
 
