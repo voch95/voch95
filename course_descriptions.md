@@ -1,6 +1,6 @@
 # Course Descriptions
 
-This is a summary of all the courses I've taken at KTH.
+This is a summary of all the courses I've taken at KTH. For code and reports, contact me. 
 
 ## Mathematics & Foundations
 - SF1659 Mathematics, Basic Course (Matematik, baskurs)
