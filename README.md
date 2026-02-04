@@ -25,10 +25,12 @@ Feel free to contact me directly if you'd like to learn more.
 
 | Project | Description |
 |--------|-------------|
-| Language Translator NLP| Multilingual transfer learning model for e-commerce translation |
-| Four Tank Process | Theoretical and practical evaluation of MIMO systems |
+| Paper Piano | Created a piano using paper, cables, an Arduino chip and a lead pen |
+| Induction-based Water Cooker | Combined amplifiers and coils to heat water through induction |
+| Language Translator NLP | Multilingual transfer learning model for e-commerce translation |
 | Automatic Music Genre Classifier | Audio signal preprocessing + DL model on MFCCs |
 | Multi-Label SCE Loss Study | Experiments with symmetric cross-entropy loss |
+| Four Tank Process | Theoretical and practical evaluation of MIMO systems |
 | Reinforcement Snake | Snake agent trained with CNN + Q-learning (BSc, completed) |
 | Estimation Filters | Kalman filters for position tracking (control systems) |
 | Computational Terminology | Automatic Term Extraction in dynamic, data-scarce domains (MSc, pending)|
